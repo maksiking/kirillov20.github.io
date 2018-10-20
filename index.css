@@ -1,13 +1,18 @@
 .banner1{
     margin-top: 100px;
     background: red;
-    display: flex;
+    width: 100px;
+    height: 20px;
+    
 }
 .banner2{
     background: gold;
-    margin: 200px;
-    top: 0px;
-    right: 0px;
+    margin: 100px;
+    top: 10px;
+    right: 20px;
+    padding: 10px 50px;
+    align-items: center;
+}
+.container{
     display: flex;
-    padding: 1px 5px;
 }
