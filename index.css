@@ -1,0 +1,13 @@
+.banner1{
+    margin-top: 100px;
+    background: red;
+    display: flex;
+}
+.banner2{
+    background: gold;
+    margin: 200px;
+    top: 0px;
+    right: 0px;
+    display: flex;
+    padding: 1px 5px;
+}
